@@ -1,6 +1,6 @@
 ### Olá, Breno por aqui 👋
 
-Sou cientista de dados, atuando nesse mundo de modelagem/machine learning desde 2018, e criei esse repositório com intuito de compartilhar parte do aprendizado desses anos na área.
+Sou cientista de dados, atuando profissionalmente em modelagem/machine learning desde 2018, e criei esse repositório com intuito de compartilhar parte do aprendizado desses anos na área.
 
 Tenho experiência de modelagem no setor de saúde (Bradesco Saúde) e financeiro (Banco bmg), sou apaixonado por esse mundo de ciência de dados e estou sempre em busca de novidades sobre o tema.
 
